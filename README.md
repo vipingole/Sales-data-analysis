@@ -21,8 +21,7 @@
 
 
 ## Conclusion:
-- Answer1:
-  ![download](https://user-images.githubusercontent.com/91408566/136699189-389447c2-6926-4377-aae5-2037bbc5339c.png)
+- Answer1:![download](https://user-images.githubusercontent.com/91408566/136699189-389447c2-6926-4377-aae5-2037bbc5339c.png)
    December was the best month of sales of more then 4 million.
 - Answer
 - Answer
