@@ -8,7 +8,7 @@
 - Order Date	      : Record of date and time during which ordered was placed.
 - Purchase Address  : Address from where ordered was placed.
 
-## DATA-SET is provided in this repositories.
+## (DATA-SET)https://github.com/vipingole/Sales-data-analysis/tree/main/sales%20data
 
 # PROJECT OBJECTIVE:
 ### Cleaning Of Data Set.
